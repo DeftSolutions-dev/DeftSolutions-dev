@@ -13,7 +13,6 @@ Skills: C# / Unity C# / JS / HTML / CSS / Python
 - 📫 How to reach me: 
 - ▸ https://vk.com/devil_lucifer69 
 - ▸ https://t.me/DeftSolutions 
-- ▸ https://github.com/DeftSolutions-dev 
 - ▸ https://discord.gg/XEXtB8SCbS 
 - ▸ https://steamcommunity.com/id/desirepro 
 - ⚡ Fun fact: I can do something and in a week forget how I did it xD 
