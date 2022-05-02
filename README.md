@@ -41,5 +41,5 @@ Skills: C# / Unity C# / JS / HTML / CSS / Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev)  
 
 ![](https://hit.yhype.me/github/profile?user_id=59990384)
-![](https://komarev.com/ghpvc/?username=DeftSolutions-deve&color=green)
+![Profile views](https://gpvc.arturio.dev/DeftSolutions-dev) 
  
