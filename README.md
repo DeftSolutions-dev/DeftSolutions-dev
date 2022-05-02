@@ -19,7 +19,7 @@ Skills: C# / Unity C# / JS / HTML / CSS / Python
 
 [<img src='https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white' alt='github'>](https://github.com/DeftSolutions-dev)  
 [<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCmbtEQ1DbyvOmucXlk6HjlA/videos)  
-[<img src='https://upload.wikimedia.org/wikipedia/commons/6/60/VK_Full_Logo_%282021-present%29.svg' alt='website' height="40px">](https://vk.com/desirepro)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/6/60/VK_Full_Logo_%282021-present%29.svg' alt='website' height="20px">](https://vk.com/desirepro)  
 [<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='javascript'>](https://codehs.com/run/javascript)  
 [<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html5'>](https://codehs.com/documentation/html)   
 [<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html5'>](https://www.w3.org/html/)  
