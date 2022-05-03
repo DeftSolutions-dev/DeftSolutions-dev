@@ -6,7 +6,7 @@
 
 I have good knowledge in the field of programming for Unity, as well as higher basic knowledge of languages ​​such as HTML, CSS, JS, Python.
 
-Skills: C# / Unity C# / JS / HTML / CSS / Python
+Skills: C# / Unity C# / JS / Java / HTML / CSS / Python
 
 - 🔭 I’m currently working on DesirePro - Cheat for ... 
 - 🌱 I’m currently learning Niagara Falls High School 12 Grade. 
