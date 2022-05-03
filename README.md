@@ -4,7 +4,7 @@
 
 
 
-I have good knowledge in the field of programming for Unity, as well as higher basic knowledge of languages ​​such as HTML, CSS, JS, Python.
+I have good knowledge in the field of programming for Unity, as well as higher basic knowledge of languages ​​such as HTML, CSS, JS, Python, Java.
 
 Skills: C# / Unity C# / JS / Java / HTML / CSS / Python
 
