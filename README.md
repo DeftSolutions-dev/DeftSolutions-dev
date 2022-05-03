@@ -8,7 +8,7 @@ I have good knowledge in the field of programming for Unity, as well as higher b
 
 Skills: C# / Unity C# / JS / HTML / CSS / Python
 
-- 🔭 I’m currently working on DesirePro - Cheat for RUST. 
+- 🔭 I’m currently working on DesirePro - Cheat for ... 
 - 🌱 I’m currently learning Niagara Falls High School 12 Grade. 
 - 📫 How to reach me: 
 - ▸ https://vk.com/devil_lucifer69 
