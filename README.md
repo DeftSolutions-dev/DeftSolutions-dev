@@ -35,7 +35,7 @@ Skills: C# / Unity C# / JS / Java / HTML / CSS / Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DeftSolutions-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeftSolutions-dev&show_icons=true)  
 
