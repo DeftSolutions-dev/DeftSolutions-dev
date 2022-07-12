@@ -39,8 +39,8 @@ Skills: C# / Unity C# / JS / Java / HTML / CSS / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeftSolutions-dev&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeftSolutions-dev)  
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=DeftSolutions-dev&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DeftSolutions-dev"/></p> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev&theme=dark)  
 
 ![](https://hit.yhype.me/github/profile?user_id=59990384)
