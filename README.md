@@ -35,12 +35,12 @@ Skills: C# / Unity C# / JS / Java / HTML / CSS / Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DeftSolutions-dev&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=DeftSolutions-dev&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DeftSolutions-dev"/></p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeftSolutions-dev&show_icons=true&theme=dark)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev&theme=dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev&theme=dark) 
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=DeftSolutions-dev&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DeftSolutions-dev"/></p> 
 
 ![](https://hit.yhype.me/github/profile?user_id=59990384)
