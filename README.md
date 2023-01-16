@@ -29,7 +29,7 @@ Hi, I'm Sergei!
 <p align="center"> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev&theme=merko&layout=compact" width="400" />
    <span>&nbsp;</span>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev&theme=tokyonight&hide_border=false" width="500"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev&theme=tokyonight&hide_border=false" width="480"/>
 </p>
 <hr>
 
