@@ -27,9 +27,9 @@ Hi, I'm Sergei!
 ```
 <hr>
 <p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev&theme=merko&layout=compact" width="400" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev&theme=merko&layout=compact" width="300" />
    <span>&nbsp;</span>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev&theme=tokyonight&hide_border=false" width="480"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeftSolutions-dev&theme=tokyonight&hide_border=false" width="380"/>
 </p>
 <hr>
 
