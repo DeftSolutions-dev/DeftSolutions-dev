@@ -25,7 +25,7 @@ Hi, I'm Sergei!
 💖 https://t.me/DeftSolutions 
 -------------------------
 ```
-[![Discord Presence](https://api.lanyard.rest/users/379564899371581441)](https://discord.com/users/379564899371581441)
+[![Discord Presence](https://lanyard.cnrad.dev/api/379564899371581441)](https://discord.com/users/379564899371581441)
 
 <hr>
 <p align="center"> 
