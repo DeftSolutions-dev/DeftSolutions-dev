@@ -25,6 +25,8 @@ Hi, I'm Sergei!
 💖 https://t.me/DeftSolutions 
 -------------------------
 ```
+[![Discord Presence](https://lanyard.cnrad.dev/api/379564899371581441)](https://discord.com/users/379564899371581441)
+
 <hr>
 <p align="center"> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeftSolutions-dev&theme=merko&layout=compact" width="317" />
