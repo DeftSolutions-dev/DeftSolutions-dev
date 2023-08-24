@@ -16,7 +16,7 @@ Hi, I'm Sergei!
 -------------------------
 💻 I am a self taught Full Stack Developer and a Game Developer.
 🌟 Main languages: C#, C#(Unity3d).
-🚩 Have experience with: JavaScript, Java(Android Studio), HTML, CSS, Python.
+🚩 Have experience with: JS, Java(Android Studio), HTML, CSS, Python and CPP/C.
 🔭 I have a strong interest in Mod a Game/Programs Development.
 💻 Not smoking, Not drinking beer..
 🎵 Love all sorts of music and play game (DayZ, Rust, Apex and etc).
