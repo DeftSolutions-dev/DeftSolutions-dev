@@ -22,7 +22,7 @@ Hi, I'm Sergei!
 🎵 Love all sorts of music and play game (DayZ, Rust, Apex and etc).
 💖 How to reach me: 
 💖 https://vk.com/devil_lucifer69 
-💖 https://t.me/DeftSolutions 
+💖 https://t.me/desirepro
 -------------------------
 ```
 [![Discord Presence](https://lanyard.cnrad.dev/api/379564899371581441)](https://discord.com/users/379564899371581441)
